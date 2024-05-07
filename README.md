@@ -20,6 +20,7 @@ https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=56&clCd=ING
 
 (순위권 링크)
  -팀 이름: KGIT_AI팀
+ 
 https://kli.korean.go.kr/benchmark/taskOrdtm/taskLeaderBoard.do?taskOrdtmId=56&clCd=ING_TASK&subMenuId=sub04
 
  최종적으로 제공 받은 데이터를 증강하고 정제하여 더 좋은 결과물을 만들며, 실제 결과물을 관측해 필요한 조정을 지속적으로 할 예정입니다.
