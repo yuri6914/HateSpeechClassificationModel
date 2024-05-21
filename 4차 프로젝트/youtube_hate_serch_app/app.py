@@ -10,7 +10,7 @@ app = Flask(__name__)
 # YouTube API 설정
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyChxC7sWyzVO5Rl4zAm5URHS7RligGJ6M8"
+DEVELOPER_KEY = "" # 개인 API 아이디 입력
 
 # 모델 및 토크나이저 로드
 model_path = "data/korean_hate_serch_Model"
